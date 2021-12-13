@@ -1,0 +1,6 @@
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 5\Question 4\bin\Debug\Question 4.exe.config
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 5\Question 4\bin\Debug\Question 4.exe
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 5\Question 4\bin\Debug\Question 4.pdb
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 5\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 5\Question 4\obj\Debug\Question 4.exe
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 5\Question 4\obj\Debug\Question 4.pdb
