@@ -1,0 +1,7 @@
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 6\Question 1\bin\Debug\Question 1.exe.config
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 6\Question 1\bin\Debug\Question 1.exe
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 6\Question 1\bin\Debug\Question 1.pdb
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 6\Question 1\obj\Debug\Question 1.csproj.AssemblyReference.cache
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 6\Question 1\obj\Debug\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 6\Question 1\obj\Debug\Question 1.exe
+C:\Users\Radhe\Documents\GitHub\Nordic\Nordic-Assignments\Lab 6\Question 1\obj\Debug\Question 1.pdb
